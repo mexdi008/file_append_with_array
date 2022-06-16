@@ -1,7 +1,7 @@
 <?php
-return array (
-  'failed' => 'asfdafadg',
+return [
+  'failed' => 'asd',
   'throttle' => 'asdasd',
   'password' => 'f',
-);
+];
 ?>
